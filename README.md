@@ -18,3 +18,13 @@ Il représente avant tout un **journal de bord**, un moyen de garder une **trace
 Tu n’y gagneras rien, tu passeras à côté de l’essentiel… et le **Bocal a toujours un œil sur toi**.  
 
 ---
+
+### [Shell00](https://github.com/Niftix/Piscine_42/tree/main/shell00)
+
+La Piscine débute par le **Shell** : une plongée directe dans les bases du terminal Linux.  
+Créer, déplacer et supprimer des fichiers, gérer les permissions, manipuler les répertoires… tout ce qu’il faut pour apprendre à **se débrouiller sans interface graphique.** 
+
+ <img src="shell00/img/note.png" alt="Shell00 – notes"/>
+
+La mise en route est compliquée, mais **on se fait très rapidement la main.**  
+C’est la première étape avant de toucher au C, et elle pose les fondations indispensables pour la suite du cursus.  
