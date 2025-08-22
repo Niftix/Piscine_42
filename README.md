@@ -31,7 +31,7 @@ C’est la première étape avant de toucher au C, et elle pose les fondations i
 
 ---
 
-### [Shell01](https://github.com/Niftix/Piscine_42/tree/main/shell00)
+### [Shell01](https://github.com/Niftix/Piscine_42/tree/main/shell01)
 
 Après avoir pris nos marques avec les bases du Shell, ce day vient ajouter une **couche de complexité**.  
 On y découvre les **liens symboliques**, la gestion plus fine des **permissions**, les commandes un peu plus poussées…  
@@ -43,12 +43,12 @@ Ce ne sont clairement pas mes days favoris, mais il faut commencer par là pour 
 
 ---
 
-### [C00](https://github.com/Niftix/Piscine_42/tree/main/shell00)
+### [C00](https://github.com/Niftix/Piscine_42/tree/main/c00)
 
 Enfin… le **C** ! Après les journées un peu rébarbatives du Shell, ce module sonne comme une vraie délivrance.  
 On met les mains dans le code, on écrit nos **premières fonctions en C**, et on commence à comprendre la logique derrière la programmation.  
 
- <img src="shell01/img/note.png" alt="Shell01 – notes" width="35%"/>
+ <img src="c00/img/note.png" alt="c00 – notes" width="35%"/>
 
 Je termine ce module à **85%**. J’ai volontairement laissé **ft_print_comb** de côté, bien trop difficile à ce stade.
 
@@ -58,13 +58,13 @@ Quant aux fameux exercices bonus… le plan de revenir dessus plus tard n’aura
 
 ---
 
-### [C01](https://github.com/Niftix/Piscine_42/tree/main/shell00)
+### [C01](https://github.com/Niftix/Piscine_42/tree/main/c01)
 
 C01 est un **day clé de la Piscine** : c’est ici qu’on découvre vraiment les **pointeurs** et la **manipulation de strings**.  Au début, ça peut paraître abstrait, mais il ne faut surtout pas hésiter à prendre du temps dessus, car c’est un concept fondamental en C. 
 Une fois la logique comprise, le day devient beaucoup plus clair et abordable.  
 
-<img src="shell00/img/note.png" alt="Shell00 – notes" width="35%"/>
+<img src="c01/img/note.png" alt="c01 – notes" width="35%"/>
 
-Je terminerai ce module à **100%**, avec un dernier exercice qui introduit le **Bubble Sort**, un algorithme de tri simple mais essentiel à connaître. C’est vraiment à ce moment-là que l’on sent que les bases commencent à s’installer pour la suite de la piscine.  
+Je terminerai ce module à **100%**, avec un dernier exercice qui introduit le `Bubble Sort`, un algorithme de tri simple mais essentiel à connaître. C’est vraiment à ce moment-là que l’on sent que les bases commencent à s’installer pour la suite de la piscine.  
 
 ---
