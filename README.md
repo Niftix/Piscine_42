@@ -10,6 +10,7 @@ Après un mois de travail acharné et une immersion totale dans la Piscine, j’
   <img src="level.png" alt="Mon avancement" />
 
 Ce dépôt n’a pas vocation à fournir des solutions toutes faites.  
+
 Il représente avant tout un **journal de bord**, un moyen de garder une **trace de mon évolution** et de mon **apprentissage**. 
 
 ## Les days
@@ -45,7 +46,7 @@ La Piscine, c’est avant tout un mois pour apprendre à chercher, tester, écho
 La Piscine débute par le **Shell** : une plongée directe dans les bases du terminal Linux.  
 Créer, déplacer et supprimer des fichiers, gérer les permissions, manipuler les répertoires… tout ce qu’il faut pour apprendre à **se débrouiller sans interface graphique.** 
 
- <img src="shell00/img/note.png" alt="Shell00 – notes" width="35%"/>
+ <img src="shell00/img/note.png" alt="Shell00 – notes" width="40%"/>
 
 La mise en route est compliquée, mais **on se fait très rapidement la main.**  
 C’est la première étape avant de toucher au C, et elle pose les fondations indispensables pour la suite du cursus.  
@@ -57,7 +58,7 @@ C’est la première étape avant de toucher au C, et elle pose les fondations i
 Après avoir pris nos marques avec les bases du Shell, ce day vient ajouter une **couche de complexité**.  
 On y découvre les **liens symboliques**, la gestion plus fine des **permissions**, les commandes un peu plus poussées…  
 
- <img src="shell01/img/note.png" alt="Shell01 – notes" width="35%"/>
+ <img src="shell01/img/note.png" alt="Shell01 – notes" width="40%"/>
 
 La logique reste la même : **pratiquer, se tromper, recommencer**.  
 Ce ne sont clairement pas mes days favoris, mais il faut commencer par là pour être à l’aise tout au long de la **Piscine**.  
@@ -69,7 +70,7 @@ Ce ne sont clairement pas mes days favoris, mais il faut commencer par là pour 
 Enfin… le **C** ! Après les journées un peu rébarbatives du Shell, ce module sonne comme une vraie délivrance.  
 On met les mains dans le code, on écrit nos **premières fonctions en C**, et on commence à comprendre la logique derrière la programmation.  
 
- <img src="c00/img/note.png" alt="c00 – notes" width="35%"/>
+ <img src="c00/img/note.png" alt="c00 – notes" width="40%"/>
 
 Je termine ce module à **85%**. J’ai volontairement laissé `ft_print_comb` de côté, bien trop difficile à ce stade.
 
@@ -84,7 +85,7 @@ Quant aux fameux exercices bonus… le plan de revenir dessus plus tard n’aura
 C01 est un **day clé de la Piscine** : c’est ici qu’on découvre vraiment les **pointeurs** et la **manipulation de strings**.  Au début, ça peut paraître abstrait, mais il ne faut surtout pas hésiter à prendre du temps dessus, car c’est un concept fondamental en C. 
 Une fois la logique comprise, le day devient beaucoup plus clair et abordable.  
 
-<img src="c01/img/note.png" alt="c01 – notes" width="35%"/>
+<img src="c01/img/note.png" alt="c01 – notes" width="40%"/>
 
 Le dernier exercice introduit le **bubble sort**, un algorithme de tri simple mais essentiel à connaître. C’est vraiment à ce moment-là que l’on sent que les bases commencent à s’installer pour la suite de la Piscine.  
 
@@ -96,7 +97,7 @@ Sur ce day nous attaquons sérieusement la **manipulation de strings**.
 
 Ici, on recrée à la main plusieurs fonctions de la librairie standard : `ft_strcpy`, `ft_strncpy`, `ft_strlcpy`… la difficulte reside dans le fait de bien les comprendre de l’intérieur pour maitriser leurs differences.
 
-<img src="c02/img/note.png" alt="c02 – notes" width="35%"/>
+<img src="c02/img/note.png" alt="c02 – notes" width="40%"/>
 
 Je finirai ce day à **85%**.  J’avais volontairement laissé l’exercice bonus `ft_print_memory` pour plus tard, car il me paraissait trop difficile à ce stade. En réalité, comme beaucoup d’autres bonus, je n’y reviendrai jamais…
  
@@ -106,7 +107,7 @@ Je finirai ce day à **85%**.  J’avais volontairement laissé l’exercice bon
 
 On continue l’exploration des **strings** mais à un niveau supérieur.  Comme pour le day précédent, il faut vraiment prendre le temps de comprendre les différences et le fonctionnement des fonctions de la librairie standard.  Une fois cette étape franchie, ce day s’appréhende finalement assez facilement.  
 
-<img src="c03/img/note.png" alt="c03 – notes" width="35%"/>
+<img src="c03/img/note.png" alt="c03 – notes" width="40%"/>
 
 C’est un day qui forge la patience et qui oblige à coder proprement, sinon… ça casse.  
 
@@ -119,7 +120,7 @@ Ce day commence en douceur, avec **trois exercices déjà rencontrés précédem
 
 En revanche, `ft_atoi_base` et `ft_putnbr_base` font clairement peur au premier abord.  Je ne les toucherai pas dans un premier temps, préférant avancer sur les days suivants. Mais tout change en arrivant à **C07** : l’exercice `convert_base` me semble tellement vertigineux que je me dis que je n’y arriverai jamais sans avoir fini les deux autres exercices de base, puisqu’il les reprend clairement.  
 
-<img src="c04/img/note.png" alt="c04 – notes" width="35%"/>
+<img src="c04/img/note.png" alt="c04 – notes" width="40%"/>
 
 C’est à ce moment-là que je reviens sur C04 pour m’acharner sur eux.  Ces exercices restent assez **prise de tête**, et la moindre erreur s’y glisse facilement.  J’y ferai pas mal de fautes, mais à force de persévérance, je finirai par en venir à bout et valider ce day. 
 
@@ -131,7 +132,7 @@ On l’appelle souvent **le day des maths**, et rien que ça en fait fuir plus d
 
 Beaucoup préfèrent sauter ce day, mais honnêtement, il vaut vraiment le détour. Un exercice comme `ft_fibonacci` m’a permis de comprendre en profondeur le fonctionnement des **sous-tâches récursives** et le principe de **remontée de la pile d’appels**.  C’est un passage qui peut sembler abstrait, mais une fois qu’on a le déclic, ça change tout.  
 
-<img src="c05/img/note.png" alt="c05 – notes" width="35%"/>
+<img src="c05/img/note.png" alt="c05 – notes" width="40%"/>
 
 Le dernier exercice, le fameux **10 dames**, est considéré comme l’un des plus coriaces de la Piscine. Grâce au **Rush01**, on entrevoit la solution avec la découverte du **backtracking**, indispensable pour espérer le réussir.  
 
@@ -143,7 +144,7 @@ J’aurais adoré le tenter ! Mais comme pour d’autres exercices bonus, je ne 
 
 Enfin les **paramètres du main** (`argc` et `argv`).  Rien de bien compliqué en soi : il s’agit surtout de comprendre comment récupérer et manipuler les arguments passés en ligne de commande.  
 
-<img src="c06/img/note.png" alt="c06 – notes" width="35%"/>
+<img src="c06/img/note.png" alt="c06 – notes" width="40%"/>
 
 Pour ma part, j’avais déjà dû me confronter à ce sujet un peu plus tôt, dans un contexte où je n’avais pas vraiment le choix.  J’ai donc dû chercher, expérimenter et trouver une solution par moi-même.  Résultat : une fois arrivé sur ce day, tout me paraissait déjà beaucoup plus simple et naturel.  
 
@@ -157,7 +158,7 @@ C’est ici qu’on découvre vraiment l’**allocation dynamique**, et qu’on 
 - `ft_split`, qui m’a demandé énormément de réflexion.
 - `ft_convert_base`, qui m’a forcé à revenir sur C04 pour valider enfin les exercices que j’avais laissés de côté.
 
-<img src="c07/img/note.png" alt="c07 – notes" width="35%"/>
+<img src="c07/img/note.png" alt="c07 – notes" width="40%"/>
 
 Sur `ft_split`, il faut vraiment prendre **le temps de comprendre ce qui se passe**, pas seulement écrire du code au feeling.  
 C’est un exercice qui oblige à avancer pas à pas, à réfléchir avec méthode et à rester patient si on veut arriver au bout.
@@ -173,7 +174,7 @@ C’est un day exigeant, mais qui laisse  **un vrai sentiment de progression.**
 
 À ce stade de la Piscine, on commence à écrire des programmes avec de plus en plus de fonctions.  
 
-<img src="c08/img/note.png" alt="c08 – notes" width="35%"/>
+<img src="c08/img/note.png" alt="c08 – notes" width="40%"/>
 
 Il devient alors indispensable d’apprendre à mieux organiser son code, c’est le moment de découvrir les fameux **fichiers `.h`**, qui servent de pont entre nos différentes fonctions. 
    
@@ -183,7 +184,7 @@ Il devient alors indispensable d’apprendre à mieux organiser son code, c’es
 
 On quitte définitivement les petits exercices isolés pour entrer dans une logique de **mini-projet**, où l’organisation du code devient aussi importante que son contenu.  
 
-<img src="c09/img/note.png" alt="c09 – notes" width="35%"/>
+<img src="c09/img/note.png" alt="c09 – notes" width="40%"/>
 
 C’est également l’occasion de découvrir l’utilité d’un **Makefile**. Grâce au projet du **BSQ**, j’avais déjà eu l’occasion de m’y pencher de près, et je n’ai donc pas rencontré de difficulté particulière sur ce day.  
 
@@ -207,7 +208,7 @@ Premier projet de groupe et une bonne surprise.
 
 Nous trouvons assez rapidement la **structure générale du code**, et le programme compile très vite pour fonctionner à la perfection.  Avec ce temps gagné, nous décidons de réaliser l’intégralité des **exercices bonus**, histoire d’aller au bout du défi.  
 
-<img src="rush00/img/note.png" alt="rush00 – notes" width="35%"/>
+<img src="rush00/img/note.png" alt="rush00 – notes" width="40%"/>
 
 ---
 
@@ -221,7 +222,7 @@ Le programme compile, fonctionne bien, et nous réussissons même à réaliser q
 
 Une bonne leçon qui restera gravée pour la suite.  
 
-<img src="rush01/img/note.png" alt="rush01 – notes" width="35%"/>
+<img src="rush01/img/note.png" alt="rush01 – notes" width="40%"/>
 
 ### [BSQ](https://github.com/Niftix/Piscine_42/tree/main/bsq)
 
@@ -232,7 +233,7 @@ Vu que très peu de groupes l’ont validé, ce projet a une vraie saveur partic
 
 Alors oui, la moulinette a décidé de ne pas nous donner tous les points, malgré **trois corrections favorables**. Nous n’avons pas encore eu le temps de nous pencher sur le pourquoi du comment, mais honnêtement… ça n’enlève rien à la satisfaction de l’avoir mené aussi loin. Nous prendrons très certainement ce temps, tous les deux, pour comprendre les choix de la moulinette au cours de notre cursus.  
 
-<img src="bsq/img/note.png" alt="bsq – notes" width="35%"/>
+<img src="bsq/img/note.png" alt="bsq – notes" width="40%"/>
 
 ## Les exams
 
@@ -252,7 +253,7 @@ Premier contact avec le format des exams : on découvre l’organisation, la mou
 
 Cet exam m’a laissé un goût un peu amer. J’étais à la fois content, mais aussi extrêmement frustré : je suis resté bloqué presque **3 heures** sur un exercice qui ne fonctionnait pas, tout simplement parce qu’il ne prenait pas d’arguments…  N’étant pas encore familier avec les **arguments du `main`**, ce fut un long combat, que je finis par résoudre à seulement **10 minutes de la fin**.  
 
-<img src="exam00/img/note.png" alt="exam00 – notes" width="35%"/>
+<img src="exam00/img/note.png" alt="exam00 – notes" width="40%"/>
 
 Les autres exercices me semblaient tout à fait réalisables, ce qui renforce ce sentiment d’inachevé. Au final, j’en garde malgré tout une **note globalement satisfaisante**, mais avec la conviction que j’aurais pu faire beaucoup mieux.  
 
@@ -267,7 +268,7 @@ Globalement, tout se passe bien jusqu’au dernier exercice, celui qui condition
 Grâce à la **trace** encore presente de la moulinette, je parviens à débloquer la situation et à le réussir, un apprentissage qui me sera précieux pour la suite.  
 
 
-<img src="exam01/img/note.png" alt="exam01 – notes" width="35%"/>
+<img src="exam01/img/note.png" alt="exam01 – notes" width="40%"/>
 
 Résultat : je décroche enfin le **100** tant espéré, et avec lui une bonne dose de confiance pour la suite.
 
@@ -279,7 +280,7 @@ Dernier exam avant le **Final**, et je sais qu’il est capital de le réussir p
 
 Je rencontre pas mal de difficultés sur l’avant-dernier exercice : sans la **trace** de la moulinette, il faut faire preuve de réflexion et comprendre soi-même ce qui cloche.  
 
-<img src="exam02/img/note.png" alt="exam02 – notes" width="35%"/>
+<img src="exam02/img/note.png" alt="exam02 – notes" width="40%"/>
 
 Heureusement, les longues heures de travail accumulées pendant la Piscine finissent par payer. Je parviens à débloquer cet exercice, à réussir également le dernier, et à finaliser une nouvelle fois cet exam à **100**.  
 
@@ -296,7 +297,7 @@ Je me fais une grosse frayeur dès le 2ᵉ exercice : tous mes tests passent, ma
 
 Cette fois, hors de question de revivre ça : je souffle, je décortique l’énoncé à l’écrit, je restructure mon code… et il finit par passer.  
 
-<img src="examfinal/img/note.png" alt="examfinal – notes" width="35%"/>
+<img src="examfinal/img/note.png" alt="examfinal – notes" width="40%"/>
 
 Je poursuis ma progression jusqu’au 72, avant de tomber sur des concepts totalement nouveaux pour moi. Impossible d’aller plus loin, mais peu importe : après un mois d’intensité, **terminer le final dans ces conditions reste une énorme reussite.**
 
