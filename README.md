@@ -172,10 +172,11 @@ C’est un day exigeant, mais qui laisse  **un vrai sentiment de progression.**
 ### [C08](https://github.com/Niftix/Piscine_42/tree/main/c08)
 
 À ce stade de la Piscine, on commence à écrire des programmes avec de plus en plus de fonctions.  
-Il devient alors indispensable d’apprendre à mieux organiser son code, c’est le moment de découvrir les fameux **fichiers `.h`**, qui servent de pont entre nos différentes fonctions. 
 
 <img src="c08/img/note.png" alt="c08 – notes" width="35%"/>
 
+Il devient alors indispensable d’apprendre à mieux organiser son code, c’est le moment de découvrir les fameux **fichiers `.h`**, qui servent de pont entre nos différentes fonctions. 
+   
 ---
 
 ### [C09](https://github.com/Niftix/Piscine_42/tree/main/c09)  
@@ -185,3 +186,118 @@ On quitte définitivement les petits exercices isolés pour entrer dans une logi
 <img src="c09/img/note.png" alt="c09 – notes" width="35%"/>
 
 C’est également l’occasion de découvrir l’utilité d’un **Makefile**. Grâce au projet du **BSQ**, j’avais déjà eu l’occasion de m’y pencher de près, et je n’ai donc pas rencontré de difficulté particulière sur ce day.  
+
+## Les rushs
+
+Les Rushs sont des projets de groupe totalement facultatifs, chacun est libre de s’y inscrire ou non (en vérité… comme à peu près tout à 42).
+
+Les équipes sont formées **aléatoirement**, ce qui ajoute une part de surprise, on ne choisit pas ses coéquipiers, il faut apprendre à composer avec leurs forces, leurs faiblesses… 
+ 
+Ils offrent une belle opportunité de **travailler en équipe**.  Ils se déroulent sur un week-end et se concluent par une **correction orale** en début de semaine.  Chaque membre du groupe doit alors expliquer son rôle, les choix faits ensemble et la conception du projet.   
+
+Il reste un dernier projet en groupe un peu particulier "le **BSQ**". C’est le dernier projet de la Piscine et il se réalise en **binôme**, avec le partenaire de son choix, durant la **dernière semaine**. La correction est assurée par **trois Piscineux**, puis par la redoutable **moulinette**.
+
+Personnellement, j’aurai participé à **tous les Rushs**, à l’exception du dernier, où j’ai choisi de privilégier le **BSQ**. 
+
+---
+
+### [Rush00](https://github.com/Niftix/Piscine_42/tree/main/rush00)
+
+Premier projet de groupe et une bonne surprise.  
+
+Nous trouvons assez rapidement la **structure générale du code**, et le programme compile très vite pour fonctionner à la perfection.  Avec ce temps gagné, nous décidons de réaliser l’intégralité des **exercices bonus**, histoire d’aller au bout du défi.  
+
+<img src="rush00/img/note.png" alt="rush00 – notes" width="35%"/>
+
+---
+
+### [Rush01](https://github.com/Niftix/Piscine_42/tree/main/rush01)
+
+Un projet clairement **un cran au-dessus**.  
+
+Beaucoup de groupes semblent abandonner dès les premiers essais, mais de notre côté nous avons eu la chance de travailler avec quelqu’un de plus avancé. Nous avons énormément appris grâce à lui et ce projet restera une vraie source de progression.  
+
+Le programme compile, fonctionne bien, et nous réussissons même à réaliser quelques **exercices bonus**. Malheureusement, nous écopons tout de même d’une **note de zéro**… pour avoir oublié de protéger nos `malloc`.  
+
+Une bonne leçon qui restera gravée pour la suite.  
+
+<img src="rush01/img/note.png" alt="rush01 – notes" width="35%"/>
+
+### [BSQ](https://github.com/Niftix/Piscine_42/tree/main/bsq)
+
+Avec mon mate, c’est clairement le projet dont on est le plus contents. 
+
+On l’a peaufiné encore et encore, en sortant des versions toujours plus propres, plus rapides et capables de gérer un max de cas.  
+Vu que très peu de groupes l’ont validé, ce projet a une vraie saveur particulière.  
+
+Alors oui, la moulinette a décidé de ne pas nous donner tous les points, malgré **trois corrections favorables**. Nous n’avons pas encore eu le temps de nous pencher sur le pourquoi du comment, mais honnêtement… ça n’enlève rien à la satisfaction de l’avoir mené aussi loin. Nous prendrons très certainement ce temps, tous les deux, pour comprendre les choix de la moulinette au cours de notre cursus.  
+
+<img src="bsq/img/note.png" alt="bsq – notes" width="35%"/>
+
+## Les exams
+
+Les **exams** sont des épreuves individuelles qui rythment la Piscine. Ils ont lieu chaque fin de semaine et mettent à l’épreuve nos compétences.  
+
+Chaque exam dure **4 heures**, sauf le **Final Exam** qui dure **8 heures**, et suit toujours le même principe : une série d’exercices de difficulté croissante, à résoudre dans un temps limité.  
+  
+Malgré le **stress infini** qu’ils procurent, j’ai adoré l’adrénaline qu’ils génèrent. Être seul face à soi-même, devant un problème, c’est une expérience unique, on se découvre, on se dépasse et on apprend énormément. 
+
+Je pense même que je n’ai jamais autant progressé qu’au cours de ces examens.
+
+---
+
+### [Exam00](https://github.com/Niftix/Piscine_42/tree/main/exam00)
+
+Premier contact avec le format des exams : on découvre l’organisation, la moulinette en conditions réelles, et la pression du chrono.  
+
+Cet exam m’a laissé un goût un peu amer. J’étais à la fois content, mais aussi extrêmement frustré : je suis resté bloqué presque **3 heures** sur un exercice qui ne fonctionnait pas, tout simplement parce qu’il ne prenait pas d’arguments…  N’étant pas encore familier avec les **arguments du `main`**, ce fut un long combat, que je finis par résoudre à seulement **10 minutes de la fin**.  
+
+<img src="exam00/img/note.png" alt="exam00 – notes" width="35%"/>
+
+Les autres exercices me semblaient tout à fait réalisables, ce qui renforce ce sentiment d’inachevé. Au final, j’en garde malgré tout une **note globalement satisfaisante**, mais avec la conviction que j’aurais pu faire beaucoup mieux.  
+
+---
+
+### [Exam01](https://github.com/Niftix/Piscine_42/tree/main/exam01)
+
+J’aborde cet exam avec la pression de faire mieux que le précédent.  
+
+Globalement, tout se passe bien jusqu’au dernier exercice, celui qui conditionne la note parfaite.  
+
+Grâce à la **trace** encore presente de la moulinette, je parviens à débloquer la situation et à le réussir, un apprentissage qui me sera précieux pour la suite.  
+
+
+<img src="exam01/img/note.png" alt="exam01 – notes" width="35%"/>
+
+Résultat : je décroche enfin le **100** tant espéré, et avec lui une bonne dose de confiance pour la suite.
+
+---
+
+### [Exam02](https://github.com/Niftix/Piscine_42/tree/main/exam02)
+
+Dernier exam avant le **Final**, et je sais qu’il est capital de le réussir pour me mettre en confiance.  
+
+Je rencontre pas mal de difficultés sur l’avant-dernier exercice : sans la **trace** de la moulinette, il faut faire preuve de réflexion et comprendre soi-même ce qui cloche.  
+
+<img src="exam02/img/note.png" alt="exam02 – notes" width="35%"/>
+
+Heureusement, les longues heures de travail accumulées pendant la Piscine finissent par payer. Je parviens à débloquer cet exercice, à réussir également le dernier, et à finaliser une nouvelle fois cet exam à **100**.  
+
+Je ressors de là plus motivé que jamais et prêt à tout donner pour le **Final Exam**. 
+
+
+---
+
+### [Final Exam](https://github.com/Niftix/Piscine_42/tree/main/examfinal)
+
+S’il y a une chose que j’ai apprise pendant les exams, c’est de **ne pas se précipiter** : prendre le temps de lire et relire le sujet avant de foncer dans le code.  
+
+Je me fais une grosse frayeur dès le 2ᵉ exercice : tous mes tests passent, mais la moulinette refuse catégoriquement. Forcément, le stress grimpe en flèche… mais je repense à ma mésaventure de l’Exam00, où j’avais perdu des heures à cause d’une simple mauvaise compréhension.  
+
+Cette fois, hors de question de revivre ça : je souffle, je décortique l’énoncé à l’écrit, je restructure mon code… et il finit par passer.  
+
+<img src="examfinal/img/note.png" alt="examfinal – notes" width="35%"/>
+
+Je poursuis ma progression jusqu’au 72, avant de tomber sur des concepts totalement nouveaux pour moi. Impossible d’aller plus loin, mais peu importe : après un mois d’intensité, **terminer le final dans ces conditions reste une énorme reussite.**
+
+---
