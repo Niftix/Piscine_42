@@ -12,10 +12,31 @@ Après un mois de travail acharné et une immersion totale dans la Piscine, j’
 Ce dépôt n’a pas vocation à fournir des solutions toutes faites.  
 Il représente avant tout un **journal de bord**, un moyen de garder une **trace de mon évolution** et de mon **apprentissage**. 
 
+## Les days
+
+Les **days** sont le cœur de la Piscine 42.  
+
+Chaque day (C00, C01, …) propose une série d’exercices progressifs à réaliser en un ou plusieurs jours.  
+
+Pour avancer, il faut valider le day en réussissant au minimum les **exercices obligatoires**, qui assurent la moyenne et débloquent l’accès au suivant. Les autres exercices sont alors considérés comme des **bonus** : ils permettent d’aller plus loin, de renforcer sa compréhension et de grappiller des points supplémentaires pour ceux qui veulent se challenger.
+
+Une fois un day finalisé, il peut être soumis à la correction. Chaque exercice est alors évalué par **deux autres Piscineux**, qui jugent et notent le travail réalisé. C’est un moment clé de la Piscine : on échange, on compare nos approches et on met en pratique le **peer learning** de la meilleure façon possible.
+  
+Après ces deux corrections humaines, vient l’étape tant redoutée : la fameuse **moulinette**. 
+
+Elle balance une pluie de tests automatiques sans pitié pour vérifier si ton code tient vraiment la route.  C’est un mélange bizarre entre stress et excitation : tu croises les doigts pour qu’elle ne te sorte pas un joli <span style="color:red; font-weight:bold;">**“KO”**</span>. Et quand, par miracle, le <span style="color:green; font-weight:bold;">**“OK”**</span> s’affiche… c’est la délivrance (jusqu’au prochain day) !
+
 ---
 
-⚠️ **Note importante :** Si tu es en train de vivre la Piscine, n’essaie pas de tricher en recopiant du code trouvé ailleurs.  
-Tu n’y gagneras rien, tu passeras à côté de l’essentiel… et le **Bocal a toujours un œil sur toi**.  
+<div align="center">
+
+⚠️ **Note importante ⚠️**
+
+Si tu es en train de vivre la Piscine, oublie l’idée de tricher en recopiant du code trouvé ailleurs.  Tu ne feras que **saboter ta Piscine**, rater tes exams et passer à côté de ce qui compte vraiment. 
+
+La Piscine, c’est avant tout un mois pour apprendre à chercher, tester, échouer, recommencer et progresser. Parfois tu avances vite, parfois tu bloques longtemps sur un détail… et c’est normal. **Chacun nage à son rythme, l’important c’est d’aller de l’avant.**
+
+</div>
 
 ---
 
@@ -94,9 +115,9 @@ C’est un day qui forge la patience et qui oblige à coder proprement, sinon…
 
 ### [C04](https://github.com/Niftix/Piscine_42/tree/main/c04)
 
-Ce day commence en douceur, avec **trois exercices déjà rencontrés précédemment**, histoire de se mettre en jambe.  C’est aussi le moment de découvrir le fameux `atoi`, dont on entend parler depuis le début de la Piscine.  
+Ce day commence en douceur, avec **trois exercices déjà rencontrés précédemment**, histoire de se mettre en jambe.  C’est aussi le moment de découvrir le fameux `ft_atoi`, dont on entend parler depuis le début de la Piscine.  
 
-En revanche, `atoi_base` et `putnbr_base` font clairement peur au premier abord.  Je ne les toucherai pas dans un premier temps, préférant avancer sur les days suivants. Mais tout change en arrivant à **C07** : l’exercice `convert_base` me semble tellement vertigineux que je me dis que je n’y arriverai jamais sans avoir fini les deux autres exercices de base, puisqu’il les reprend clairement.  
+En revanche, `ft_atoi_base` et `ft_putnbr_base` font clairement peur au premier abord.  Je ne les toucherai pas dans un premier temps, préférant avancer sur les days suivants. Mais tout change en arrivant à **C07** : l’exercice `convert_base` me semble tellement vertigineux que je me dis que je n’y arriverai jamais sans avoir fini les deux autres exercices de base, puisqu’il les reprend clairement.  
 
 <img src="c04/img/note.png" alt="c04 – notes" width="35%"/>
 
@@ -125,3 +146,42 @@ Enfin les **paramètres du main** (`argc` et `argv`).  Rien de bien compliqué e
 <img src="c06/img/note.png" alt="c06 – notes" width="35%"/>
 
 Pour ma part, j’avais déjà dû me confronter à ce sujet un peu plus tôt, dans un contexte où je n’avais pas vraiment le choix.  J’ai donc dû chercher, expérimenter et trouver une solution par moi-même.  Résultat : une fois arrivé sur ce day, tout me paraissait déjà beaucoup plus simple et naturel.  
+
+---
+
+### [C07](https://github.com/Niftix/Piscine_42/tree/main/c07)
+
+Pour moi, **C07** a été un vrai gros morceau.  
+
+C’est ici qu’on découvre vraiment l’**allocation dynamique**, et qu’on se confronte à deux exercices marquants :  
+- `ft_split`, qui m’a demandé énormément de réflexion.
+- `ft_convert_base`, qui m’a forcé à revenir sur C04 pour valider enfin les exercices que j’avais laissés de côté.
+
+<img src="c07/img/note.png" alt="c07 – notes" width="35%"/>
+
+Sur `ft_split`, il faut vraiment prendre **le temps de comprendre ce qui se passe**, pas seulement écrire du code au feeling.  
+C’est un exercice qui oblige à avancer pas à pas, à réfléchir avec méthode et à rester patient si on veut arriver au bout.
+
+Pour `ft_convert_base`, il est capital d’avoir réussi et bien compris `ft_atoi_base` et `ft_putnbr_base` du C04.  
+Une fois ces deux exercices assimilés, celui-ci paraît beaucoup plus simple et se réalise finalement assez naturellement.
+
+C’est un day exigeant, mais qui laisse  **un vrai sentiment de progression.**
+
+---
+
+### [C08](https://github.com/Niftix/Piscine_42/tree/main/c08)
+
+À ce stade de la Piscine, on commence à écrire des programmes avec de plus en plus de fonctions.  
+Il devient alors indispensable d’apprendre à mieux organiser son code, c’est le moment de découvrir les fameux **fichiers `.h`**, qui servent de pont entre nos différentes fonctions. 
+
+<img src="c08/img/note.png" alt="c08 – notes" width="35%"/>
+
+---
+
+### [C09](https://github.com/Niftix/Piscine_42/tree/main/c09)  
+
+On quitte définitivement les petits exercices isolés pour entrer dans une logique de **mini-projet**, où l’organisation du code devient aussi importante que son contenu.  
+
+<img src="c09/img/note.png" alt="c09 – notes" width="35%"/>
+
+C’est également l’occasion de découvrir l’utilité d’un **Makefile**. Grâce au projet du **BSQ**, j’avais déjà eu l’occasion de m’y pencher de près, et je n’ai donc pas rencontré de difficulté particulière sur ce day.  
